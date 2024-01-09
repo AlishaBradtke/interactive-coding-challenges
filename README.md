@@ -6,9 +6,9 @@
 interactive-coding-challenges
 ============
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/donnemartin/interactive-coding-challenges/master)
+[#[Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/donnemartin/interactive-coding-challenges/master)
 
-**120+ continually updated, interactive, and test-driven coding challenges**, with [Anki flashcards](#anki-flashcards-coding-and-design).
+#*120+ continually updated, interactive, and test-driven coding challenges**, with [Anki flashcards](#anki-flashcards-coding-and-design).
 
 Challenges focus on **algorithms** and **data structures** found in **coding interviews**.
 
@@ -580,3 +580,4 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+ 
